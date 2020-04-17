@@ -17,7 +17,7 @@ This repository contains the DGA for the following paper:
 ## Preparation
 * Ref-Reasoning Dataset. Please refer to [Ref-Reasoning Dataset of SGMN](https://github.com/sibeiyang/sgmn/).
 
-* RefCOCO, RefCOCO+ and RefCOCOg Datasets. Please refer to [Preparation of CMRIN](https://github.com/sibeiyang/sgmn/lib/cmrin_models/).
+* RefCOCO, RefCOCO+ and RefCOCOg Datasets. Please refer to [Preparation of CMRIN](https://github.com/sibeiyang/sgmn/tree/master/lib/cmrin_models).
 
 ## Training and Evaluation 
 For the example of running on Ref-Reasoning dataset,
